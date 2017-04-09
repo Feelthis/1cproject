@@ -209,7 +209,7 @@
         <div class="auto-container">
             <!--Title-->
             <div class="sec-title centered">
-                <h2>About Consulting</h2>
+                <h2>Обслуживание 1с</h2>
                 <div class="desc-text">Focus freemium business model canvas alpha termsheet business plan crowdfunding
                     ownership advisor holy grail testing innovator.
                 </div>
@@ -221,7 +221,7 @@
                     <div class="inner-box">
                         <div class="icon-box wow zoomInStable" data-wow-delay="0ms" data-wow-duration="2000ms"><span
                                     class="flaticon-headphones"></span></div>
-                        <h3>Online Consulting</h3>
+                        <h3>Внедрение 1с</h3>
                         <div class="text">Completely synergize resource taxing relationships via premier niche markets.
                             Professionally cultivate one-to-one customer service with robust ideas.
                         </div>
@@ -234,7 +234,7 @@
                     <div class="inner-box">
                         <div class="icon-box wow zoomInStable" data-wow-delay="300ms" data-wow-duration="2000ms"><span
                                     class="flaticon-database"></span></div>
-                        <h3>Financial Projections</h3>
+                        <h3>Настройка 1с</h3>
                         <div class="text">Completely synergize resource taxing relationships via premier niche markets.
                             Professionally cultivate one-to-one customer service with robust ideas.
                         </div>
@@ -247,7 +247,7 @@
                     <div class="inner-box">
                         <div class="icon-box wow zoomInStable" data-wow-delay="600ms" data-wow-duration="2000ms"><span
                                     class="flaticon-thumb-up"></span></div>
-                        <h3>Business Opportunities</h3>
+                        <h3>Обучение 1с</h3>
                         <div class="text">Completely synergize resource taxing relationships via premier niche markets.
                             Professionally cultivate one-to-one customer service with robust ideas.
                         </div>
