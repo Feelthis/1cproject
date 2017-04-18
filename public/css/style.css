@@ -935,7 +935,7 @@ img{
 	color:#222222;
 	font-weight:800;
 	line-height:1.5em;
-	text-transform:capitalize;
+	/*text-transform:capitalize;*/
 	padding-bottom:10px;
 }
 
@@ -1111,10 +1111,10 @@ img{
 
 .info-block-one .inner-box h3{
 	position:relative;
-	font-size:14px;
+	font-size:20px;
 	color:#1c1c1c;
 	font-weight:700;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
 	padding-bottom:15px;
 	margin-bottom:25px;
 }
@@ -1204,7 +1204,7 @@ img{
 }
 
 .fun-facts-section .sec-title .desc-text{
-	max-width:900px;	
+	/*max-width:900px;	*/
 }
 
 .fun-facts-section .column{
@@ -1356,7 +1356,7 @@ img{
 	font-size:18px;
 	font-weight:700;
 	color:#222222;
-	text-transform:capitalize;
+	/*text-transform:capitalize;*/
 	font-family:'Roboto',sans-serif;
 	margin-bottom:15px;
 	-webkit-transition:all 300ms ease;

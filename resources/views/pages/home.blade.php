@@ -4,204 +4,16 @@
 
 @section('content')
 
-    <!--Main Slider-->
-    <section class="main-slider" data-start-height="800" data-slide-overlay="yes">
-
-        <div class="tp-banner-container">
-            <div class="tp-banner">
-                <ul>
-
-
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000"
-                        data-thumb="images/main-slider/1.jpg" data-saveperformance="off"
-                        data-title="Awesome Title Here">
-                        <img src="images/main-slider/1.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                             data-bgrepeat="no-repeat">
-
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="left" data-hoffset="15"
-                             data-y="center" data-voffset="-70"
-                             data-speed="1500"
-                             data-start="0"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn"><h2>We Help Your Business <br>to Grow And Expand</h2></div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="left" data-hoffset="15"
-                             data-y="center" data-voffset="30"
-                             data-speed="1500"
-                             data-start="500"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text">With over 10 years of experience in business consulting <br>helping
-                                businesses to find comprehensive solutions
-                            </div>
-                        </div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="left" data-hoffset="15"
-                             data-y="center" data-voffset="110"
-                             data-speed="1500"
-                             data-start="1000"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn"><a href="contact.html" class="theme-btn btn-style-one">CONTACT
-                                US</a> &ensp;&ensp; <a href="services.html" class="theme-btn btn-style-two">OUR
-                                SERVICES</a></div>
-
-                    </li>
-
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000"
-                        data-thumb="images/main-slider/2.jpg" data-saveperformance="off"
-                        data-title="Awesome Title Here">
-                        <img src="images/main-slider/2.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                             data-bgrepeat="no-repeat">
-
-                        <!--Slide Overlay-->
-                        <div class="slide-overlay"></div>
-
-                        <div class="tp-caption sft sfb tp-resizeme"
-                             data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="-70"
-                             data-speed="1500"
-                             data-start="0"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text-center"><h2>We Support Your Financial <span
-                                            class="theme_color">Interest!</span></h2></div>
-                        </div>
-
-                        <div class="tp-caption sft sfb tp-resizeme"
-                             data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="5"
-                             data-speed="1500"
-                             data-start="500"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text text-center">With over 10 years of experience in business consulting
-                                helping businesses to find<br>comprehensive solutions
-                            </div>
-                        </div>
-
-                        <div class="tp-caption sfb sfb tp-resizeme"
-                             data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="90"
-                             data-speed="1500"
-                             data-start="1000"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn"><a href="http://wp.hostlin.com/penza/about-us.html"
-                                                               class="theme-btn btn-style-three">Read More</a> &ensp;&ensp;
-                            <a href="services.html" class="theme-btn btn-style-four">OUR SERVICES</a></div>
-
-                    </li>
-
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000"
-                        data-thumb="images/main-slider/3.jpg" data-saveperformance="off"
-                        data-title="Awesome Title Here">
-                        <img src="images/main-slider/3.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                             data-bgrepeat="no-repeat">
-
-                        <!--Slide Overlay-->
-                        <div class="slide-overlay"></div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="right" data-hoffset="-15"
-                             data-y="center" data-voffset="-90"
-                             data-speed="1500"
-                             data-start="0"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text-right"><h3>Better Solution for</h3></div>
-                        </div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="right" data-hoffset="-15"
-                             data-y="center" data-voffset="-40"
-                             data-speed="1500"
-                             data-start="500"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text-right"><h2> Your Financial Needs!</h2></div>
-                        </div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="right" data-hoffset="-15"
-                             data-y="center" data-voffset="25"
-                             data-speed="1500"
-                             data-start="1000"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn">
-                            <div class="text text-right">With over 10 years of experience in business consulting <br>helping
-                                businesses to find comprehensive solutions
-                            </div>
-                        </div>
-
-                        <div class="tp-caption sfl sfb tp-resizeme"
-                             data-x="right" data-hoffset="-15"
-                             data-y="center" data-voffset="100"
-                             data-speed="1500"
-                             data-start="1500"
-                             data-easing="easeOutExpo"
-                             data-splitin="none"
-                             data-splitout="none"
-                             data-elementdelay="0.01"
-                             data-endelementdelay="0.3"
-                             data-endspeed="1200"
-                             data-endeasing="Power4.easeIn"><a href="contact.html" class="theme-btn btn-style-three">CONTACT
-                                US</a> &ensp;&ensp; <a href="services.html" class="theme-btn btn-style-four">OUR
-                                SERVICES</a></div>
-
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </section>
+    {{--YA WordStat--}}
+    {{--1) 1с казань--}}
+    {{--2) обучение 1с казань--}}
+    {{--3) купить 1с казань--}}
+    {{--4) программист 1с казань--}}
+    {{--5) 1с бухгалтерия казань--}}
+    {{--6) казань 1с программы--}}
+    {{--7) 1с торговля казань--}}
+    {{--8) 1с 8 казань--}}
+    {{--оператор 1с казань--}}
 
 
     <!--About Us--->
@@ -209,9 +21,8 @@
         <div class="auto-container">
             <!--Title-->
             <div class="sec-title centered">
-                <h2>Обслуживание 1с</h2>
-                <div class="desc-text">Focus freemium business model canvas alpha termsheet business plan crowdfunding
-                    ownership advisor holy grail testing innovator.
+                <h2>Автоматизация на платформе 1с</h2>
+                <div class="desc-text">
                 </div>
             </div>
 
@@ -222,10 +33,11 @@
                         <div class="icon-box wow zoomInStable" data-wow-delay="0ms" data-wow-duration="2000ms"><span
                                     class="flaticon-headphones"></span></div>
                         <h3>Внедрение 1с</h3>
-                        <div class="text">Completely synergize resource taxing relationships via premier niche markets.
-                            Professionally cultivate one-to-one customer service with robust ideas.
+                        <div class="text">
+                            Предпроектное обследование, разработка технического задания, адаптация, ввод в опытную эксплуатацию,
+                            обучение 1с сотрудников, ввод в промышленную эксплуатацию. Все этапы внедрения под руководством команды наших опытных специалистов.
                         </div>
-                        <a href="services-single.html" class="read-more">Read more <span
+                        <a href="services-single.html" class="read-more">Подробнее <span
                                     class="fa fa-angle-right"></span></a>
                     </div>
                 </div>
@@ -235,10 +47,12 @@
                         <div class="icon-box wow zoomInStable" data-wow-delay="300ms" data-wow-duration="2000ms"><span
                                     class="flaticon-database"></span></div>
                         <h3>Настройка 1с</h3>
-                        <div class="text">Completely synergize resource taxing relationships via premier niche markets.
-                            Professionally cultivate one-to-one customer service with robust ideas.
+                        <div class="text">
+                            Оказываем помощь при закрытии месяца в программе 1С Предприятие. на вашем предприятии сложный расчет зарплаты,
+                            директор просит предоставить отчет,которого нет в программе, устали вручную исправлять печатные формы приказов или вести отчеты в экселе
+                            - мы поможем вам настроить или доработать конфигурацию 1с под ваши нужды.
                         </div>
-                        <a href="services-single.html" class="read-more">Read more <span
+                        <a href="services-single.html" class="read-more">Подробнее <span
                                     class="fa fa-angle-right"></span></a>
                     </div>
                 </div>
@@ -248,10 +62,10 @@
                         <div class="icon-box wow zoomInStable" data-wow-delay="600ms" data-wow-duration="2000ms"><span
                                     class="flaticon-thumb-up"></span></div>
                         <h3>Обучение 1с</h3>
-                        <div class="text">Completely synergize resource taxing relationships via premier niche markets.
-                            Professionally cultivate one-to-one customer service with robust ideas.
+                        <div class="text">Перешли на новую версию программы и не можете разобраться, установили программу 1С "с нуля"
+                            обращайтесь и мы поможем Вам в этом.
                         </div>
-                        <a href="services-single.html" class="read-more">Read more <span
+                        <a href="services-single.html" class="read-more">Подробнее <span
                                     class="fa fa-angle-right"></span></a>
                     </div>
                 </div>
@@ -265,10 +79,8 @@
         <div class="auto-container">
             <!--Title-->
             <div class="sec-title light centered">
-                <h2>Helping <span class="theme_color">small business</span> to grow and expand</h2>
-                <div class="desc-text">Business plan leverage alpha twitter accelerator infrastructure partner network
-                    metrics disruptive user experience. IPhone hackathon release virality MVP user experience social
-                    proof network effects low hanging fruit monetization customer scrum project success.
+                <h2>Настраиваем <span class="theme_color">бизнес-процессы</span> в прикладных решениях 1с Предприятие</h2>
+                <div class="desc-text">Бизнес-процессы и грамотное управление задачами в организации ведет к снижению издержек и достижению поставленных целей в срок.
                 </div>
             </div>
 
@@ -279,9 +91,9 @@
                         <div class="icon-box"><span class="flaticon-target-2"></span></div>
                         <div class="content">
                             <div class="count-outer">
-                                <span class="count-text" data-speed="3000" data-stop="256">0</span>
+                                <span class="count-text" data-speed="1000" data-stop="157">0</span>
                             </div>
-                            <div class="counter-title">Projects Done</div>
+                            <div class="counter-title">Проектов выполнено</div>
                         </div>
                     </div>
                 </div>
@@ -292,9 +104,9 @@
                         <div class="icon-box"><span class="flaticon-briefcase-3"></span></div>
                         <div class="content">
                             <div class="count-outer">
-                                <span class="count-text" data-speed="2000" data-stop="42">0</span>
+                                <span class="count-text" data-speed="1000" data-stop="118">0</span>
                             </div>
-                            <div class="counter-title">Consultants</div>
+                            <div class="counter-title">Баз обновлено</div>
                         </div>
                     </div>
                 </div>
@@ -305,9 +117,9 @@
                         <div class="icon-box"><span class="flaticon-cup-2"></span></div>
                         <div class="content">
                             <div class="count-outer">
-                                <span class="count-text" data-speed="2000" data-stop="103">0</span>
+                                <span class="count-text" data-speed="500" data-stop="86">0</span>
                             </div>
-                            <div class="counter-title">Awards Winning</div>
+                            <div class="counter-title">Обучено пользователей</div>
                         </div>
                     </div>
                 </div>
@@ -318,9 +130,9 @@
                         <div class="icon-box"><span class="flaticon-thumb-up"></span></div>
                         <div class="content">
                             <div class="count-outer">
-                                <span class="count-text" data-speed="3000" data-stop="114">0</span>
+                                <span class="count-text" data-speed="500" data-stop="57">0</span>
                             </div>
-                            <div class="counter-title">Satisfied Customers</div>
+                            <div class="counter-title">Довольных заказчиков</div>
                         </div>
                     </div>
                 </div>
@@ -340,9 +152,8 @@
                     <div class="default-service-block col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
                             <div class="icon-box"><span class="flaticon-line-chart"></span></div>
-                            <h3>Financial Analysis</h3>
-                            <div class="text">Investor pivot niche market android success twitter ownership adopters
-                                gamification leverage infrastructure.
+                            <h3>Адаптация конфигураций под процессы заказчика</h3>
+                            <div class="text">Внедрение системы 1с Предприятие в поставленные сроки. Внесение новых алгоритмов в систему, изменение существующих конфигураций.
                             </div>
                         </div>
                     </div>
@@ -350,9 +161,8 @@
                     <div class="default-service-block col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
                             <div class="icon-box"><span class="flaticon-bar-chart-1"></span></div>
-                            <h3>Business Solutions</h3>
-                            <div class="text">Investor pivot niche market android success twitter ownership adopters
-                                gamification leverage infrastructure.
+                            <h3>Своевременное обновление</h3>
+                            <div class="text">Будьте уверены в том, что ваша система предоставляет актуальные формы отчетности и форматы выгрузки в налоговые органы
                             </div>
                         </div>
                     </div>
@@ -360,9 +170,8 @@
                     <div class="default-service-block col-md-4 col-sm-6 col-xs-12">
                         <div class="inner-box">
                             <div class="icon-box"><span class="flaticon-users"></span></div>
-                            <h3>Client Management</h3>
-                            <div class="text">Investor pivot niche market android success twitter ownership adopters
-                                gamification leverage infrastructure.
+                            <h3>Техническая поддержка</h3>
+                            <div class="text">Клиенты всегда уверены в оперативной поддержке и грамотной консультации наших специалистов.
                             </div>
                         </div>
                     </div>
@@ -540,141 +349,7 @@
     </section>
 
 
-    <!--Team Section-->
-    <section class="team-section">
-        <div class="auto-container">
-            <!--Title-->
-            <div class="sec-title centered">
-                <h2>Our Great Team </h2>
-                <div class="desc-text">These men promptly escaped from a maximum security stockade to the Los geles the
-                    and his skipper first mate.
-                </div>
-            </div>
 
-            <div class="carousel-box">
-                <div class="carousel-outer">
-                    <!--Team Carousel-->
-                    <div class="team-carousel owl-theme owl-carousel">
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-1.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">David Warner</a></h4>
-                                        <div class="designation">Accounts officer</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-2.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">Michael King</a></h4>
-                                        <div class="designation">Finance &amp; Commerce</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-3.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">Game Smith</a></h4>
-                                        <div class="designation">Founder & CEO</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-1.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">David Warner</a></h4>
-                                        <div class="designation">Accounts officer</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-2.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">Michael King</a></h4>
-                                        <div class="designation">Finance &amp; Commerce</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Team Member-->
-                        <div class="team-member">
-                            <div class="inner-box">
-                                <figure class="image-box"><img src="images/resource/team-image-3.png" alt=""></figure>
-                                <div class="lower-box">
-                                    <div class="hover-box">
-                                        <ul class="social-links">
-                                            <li><a href="index.html#"><span class="fa fa-facebook-f"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-twitter"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-google-plus"></span></a></li>
-                                            <li><a href="index.html#"><span class="fa fa-instagram"></span></a></li>
-                                        </ul>
-                                        <h4><a href="team-single.html">Game Smith</a></h4>
-                                        <div class="designation">Founder & CEO</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </section>
 
 
     <!--Testimonial Style One Section-->
@@ -683,7 +358,7 @@
 
             <!--Title-->
             <div class="sec-title light">
-                <h2>Testimonials </h2>
+                <h2>Отзывы </h2>
             </div>
             <!--Testimonial Carousel One-->
             <div class="testimonial-carousel-one">
@@ -825,7 +500,7 @@
         <div class="auto-container">
             <!--Title-->
             <div class="sec-title centered">
-                <h2>Our Latest News</h2>
+                <h2>Наши последние новости</h2>
                 <div class="desc-text">These men promptly escaped from a maximum security stockade to the Los geles the
                     and his skipper first mate.
                 </div>
@@ -944,17 +619,17 @@
 
             <!--Quote Form-->
             <div class="default-form quote-form wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                <div class="small-title"><h3>Request a Call Back </h3></div>
+                <div class="small-title"><h3>Обратный звонок </h3></div>
 
                 <form method="post" action="contact.html">
                     <div class="row clearfix">
 
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="fname" value="" placeholder="First Name " required>
+                            <input type="text" name="fname" value="" placeholder="Имя " required>
                         </div>
 
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="lname" value="" placeholder="Last Name " required>
+                            <input type="text" name="lname" value="" placeholder="Фамилия " required>
                         </div>
 
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
@@ -962,7 +637,7 @@
                         </div>
 
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <input type="text" name="email" value="" placeholder="Phone" required>
+                            <input type="text" name="email" value="" placeholder="Телефон" required>
                         </div>
 
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
@@ -970,7 +645,7 @@
                         </div>
 
                         <div class="form-group col-md-12 col-sm-12 col-xs-12">
-                            <button type="submit" class="theme-btn btn-style-three">Submit Now</button>
+                            <button type="submit" class="theme-btn btn-style-three">Отправить</button>
                         </div>
 
                     </div>
