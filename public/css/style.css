@@ -73,8 +73,8 @@ font-family: 'Roboto', sans-serif;*/
 
 body {
 	font-family: 'Roboto', sans-serif;
-	font-size:14px;
-	color:#777777;
+	font-size:16px;
+	/*color:#777777;*/
 	line-height:1.9em;
 	font-weight:400;
 	background:#ffffff;
@@ -95,7 +95,7 @@ a:hover,a:focus,a:visited{
 
 h1,h2,h3,h4,h5,h6 {
 	position:relative;
-	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Raleway', sans-serif;*/
 	font-weight:normal;
 	margin:0px;
 	background:none;
@@ -5522,4 +5522,84 @@ img{
 
 .canvasjs-chart-credit{
 	display:none;	
+}
+
+/***
+
+====================================================================
+	1C Project
+====================================================================
+
+***/
+
+.header__left h1,header h2{
+	font-size:35px;
+	line-height:70px
+}
+
+.header__left,nav ul li{
+	float:left
+}
+
+.header__left .city__name{
+	text-transform:uppercase;
+	font-size:30px;
+	font-weight:300;
+	margin-bottom:5px;
+	margin-top:100px
+}
+.header__left h1{
+	text-transform:uppercase;
+	width:530px
+}
+
+.header__left .button{
+	margin-top:25px
+}
+
+.header__right{
+	float:right;
+	text-transform:uppercase;
+	text-align:right;
+	font-size:20px;
+	line-height:22px;
+	font-weight:300
+}
+
+.header__right>div{
+	margin-top:32px
+}
+
+.header__right>div:first-child{
+	margin-top:80px
+}
+
+.buy1c {
+	padding: 130px 0px 100px;
+}
+
+.config1c {
+	margin-bottom: 40px;
+}
+
+.configTitle {
+	position:relative;
+	font-size:20px;
+	color:#1c1c1c;
+	font-weight:700;
+	/*text-transform:uppercase;*/
+	padding-bottom:15px;
+	margin-bottom:25px;
+
+}
+
+.underlineyellow {
+	border-bottom: 2px solid #f7b432;
+	display: inline-block;
+	line-height: 0.85;
+	text-shadow:
+			2px 2px white,
+			2px -2px white,
+			-2px 2px white,
+			-2px -2px white;
 }

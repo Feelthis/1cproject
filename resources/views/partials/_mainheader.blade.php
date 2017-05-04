@@ -39,7 +39,10 @@
                 <div class="outer-container clearfix">
                     <!--Logo Box-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.html" title="Penza"><img src="images/logo-erp-master.png" alt="ERP Мастер" title="ERP Мастер"></a></div>
+                        <div class="logo">
+                            <a href="index.html" title="Penza"><img src="images/logo-erp-master.png" alt="ERP Мастер" title="ERP Мастер"></a>
+                        </div>
+
                     </div>
 
                     <!--Nav Outer-->
