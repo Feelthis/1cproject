@@ -185,7 +185,7 @@
     <!--About Us--->
     <section class="about-us">
         <div class="auto-container">
-            {{--111--}}
+            {{--2222--}}
             <!--Title-->
             {{--<div class="sec-title centered">--}}
                 {{--<h1>Автоматизация на платформе 1с</h1>--}}
